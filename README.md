@@ -1,6 +1,8 @@
 # Herd
 predict the future
 
+open source investing
+
 
 #TP
 
@@ -19,3 +21,5 @@ home displays a list of current polls, as well as a link to create_poll()
 ---------> link payments
 ---------> update settings
 ---------> delete account
+
+
